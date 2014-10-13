@@ -21,20 +21,20 @@ namespace VehicleApp
         private void createButton_Click(object sender, EventArgs e)
         {
             aVehicle = new Vehicle(vehicleNameTextBox.Text,regNoTextBox.Text);
-            MessageBox.Show("Your Registration Has Been Created");
+            MessageBox.Show(@"Your Registration Has Been Created");
         }
 
         private void enterButton_Click(object sender, EventArgs e)
         {
             aVehicle.GetSpeed(Convert.ToDouble(speedTextBox.Text));
-            MessageBox.Show("Please Click Show Button");
+            MessageBox.Show(@"Please Click Show Button");
         }
 
         private void showButton_Click(object sender, EventArgs e)
         {
             maximumTextBox.Text = aVehicle.Maximum.ToString();
             minimumTextBox.Text = aVehicle.Minimum.ToString();
-            averageTextBox.Text = aVehicle.Average.ToString();
+            averageTextBox.Text = aVehicle.GetAverage().ToString();
         }
     }
 }

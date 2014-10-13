@@ -13,8 +13,7 @@ namespace VehicleApp
         public double Speed { private get; set; }
         public double Maximum { get; private set; }
         public double Minimum { get; private set; }
-        public double Average { get; set; }
-        private int count =1;
+        private int count;
 
         public Vehicle(string vehicleName,string regNo):this()
         {
@@ -40,13 +39,13 @@ namespace VehicleApp
             {
                 Minimum = currentSpeed;
             }
-            Speed = currentSpeed;
+            Speed += currentSpeed;
 
         }
 
-        public void GetAverage()
+        public double GetAverage()
         {
-            Average = Speed/count;
+           return Speed/count;
         }
 
     }
