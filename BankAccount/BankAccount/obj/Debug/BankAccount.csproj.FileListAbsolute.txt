@@ -1,0 +1,12 @@
+G:\Badol\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+G:\Badol\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+G:\Badol\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+G:\Badol\BankAccount\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+G:\Badol\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+G:\Badol\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+I:\Badol\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+I:\Badol\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+I:\Badol\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+E:\BASIS Tuts\Won\Badol\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+E:\BASIS Tuts\Won\Badol\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+E:\BASIS Tuts\Won\Badol\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
