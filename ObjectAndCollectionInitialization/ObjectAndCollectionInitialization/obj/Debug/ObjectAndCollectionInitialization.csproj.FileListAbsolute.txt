@@ -1,0 +1,6 @@
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\New folder\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\bin\Debug\ObjectAndCollectionInitialization.exe.config
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\New folder\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\bin\Debug\ObjectAndCollectionInitialization.exe
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\New folder\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\bin\Debug\ObjectAndCollectionInitialization.pdb
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\New folder\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\obj\Debug\ObjectAndCollectionInitialization.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\New folder\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\obj\Debug\ObjectAndCollectionInitialization.exe
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\New folder\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\obj\Debug\ObjectAndCollectionInitialization.pdb
